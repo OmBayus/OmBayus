@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I'm currently working on Web Development
+- 🔭 I'm currently working on Web Development (React and Express Server)
 - 🌱 I’m currently learning Electron,Flutter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ombayus&theme=radical&layout=compact)](https://github.com/ombayus)
