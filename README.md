@@ -1,6 +1,7 @@
 ### Hi there 👋
 - I'm Omer
-- I am studying at Gazi University
+- I study at Gazi University
+- I work at Signum TTE
 
 <!--
 **OmBayus/OmBayus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +20,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I'm currently working on Web Development (React and Express Server)
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Microservices Architecture
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ombayus&theme=radical&layout=compact)](https://github.com/ombayus)
