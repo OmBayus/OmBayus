@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I'm currently working on Web Development (React and Express Server)
-- 🌱 I’m currently learning Microservices Architecture
+- 🔭 I'm currently working as Full Stack Developer.
+- 🌱 I’m currently learning Microservices Architecture.
 
 ### 🤝🏻 &nbsp;Support Me 🤝
 <a href="https://www.buymeacoffee.com/ombayus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
