@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 <a href="https://www.buymeacoffee.com/ombayus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ombayus&theme=radical&layout=compact)](https://github.com/ombayus)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ombayus)](https://git.io/streak-stats)
