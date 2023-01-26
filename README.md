@@ -3,8 +3,8 @@
   <p>I study at Gazi University<p/>
   <p>I work at Signum TTE</p>
 
-  <p>🔭 I'm currently working as Full Stack Developer.</p>
-  <p>🌱 I’m currently learning Kubernetes.</p>
+  <p>🔭 I'm currently working as Full Stack Developer</p>
+  <p>🌱 I’m currently learning Kubernetes</p>
  </div>
 
 <p align="center">
@@ -18,3 +18,20 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
 </p>
+<br>
+
+<div align="center">
+  <a href="https://www.ombayus.com" target="_blank">
+    <img src="https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611047cda2f69d5b07d3cd6f68418498c534713045c&rid=giphy.gif&ct=g" alt="gif" style="height: 200px !important;width: 200px !important;">
+  </a>
+</div>
+<br>
+
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ombayus)](https://git.io/streak-stats)
+  
+</div>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ombayus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+ </div>
