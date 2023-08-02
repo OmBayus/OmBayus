@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://www.ombayus.com" target="_blank">
-    <img src="https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611047cda2f69d5b07d3cd6f68418498c534713045c&rid=giphy.gif&ct=g" alt="gif" style="height: 200px !important;width: 200px !important;">
+    <img src="https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611047cda2f69d5b07d3cd6f68418498c534713045c&exclude_days=Sun%2CSat&rid=giphy.gif&ct=g" alt="gif" style="height: 200px !important;width: 200px !important;">
   </a>
 </div>
 <br>
