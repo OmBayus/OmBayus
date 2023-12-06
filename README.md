@@ -1,10 +1,9 @@
 <div align="center">
   <h3>Omer Bayramcavus</h3>
   <p>I study at Gazi University<p/>
-  <p>I work at Signum TTE</p>
+  <p>I work at Siemens</p>
 
   <p>🔭 I'm currently working as Full Stack Developer</p>
-  <p>🌱 I’m currently learning Kubernetes</p>
  </div>
 
 <p align="center">
