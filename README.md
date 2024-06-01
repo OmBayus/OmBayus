@@ -1,8 +1,6 @@
 <div align="center">
   <h3>Omer Bayramcavus</h3>
   <p>I study at Gazi University<p/>
-  <p>I work at Siemens</p>
-
   <p>🔭 I'm currently working as Full Stack Developer</p>
  </div>
 
