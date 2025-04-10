@@ -21,13 +21,3 @@
     <img src="https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611047cda2f69d5b07d3cd6f68418498c534713045c&rid=giphy.gif&ct=g" alt="gif" style="height: 200px !important;width: 200px !important;">
   </a>
 </div>
-<br>
-
-<div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=OmBayus&theme=algolia&hide_border=true)](https://git.io/streak-stats)
-  
-</div>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ombayus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
- </div>
